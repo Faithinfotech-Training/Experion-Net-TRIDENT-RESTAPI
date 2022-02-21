@@ -1,4 +1,9 @@
-This is the backend of clinic management system
+This is the Backend of Clinic Management System.
+
+Team Members:
+Sumeeth
+Sreehari
+Nikhil
 
 ## Technology used
 
@@ -7,7 +12,8 @@ This is the backend of clinic management system
 3. Entityframework
 4. Sql Server
 
-
+Project Document:
+https://docs.google.com/document/d/1hOg9qpEZkYkbHW-W4VScVmjLEuK3ptx2UJL7D-sHxkI/edit#heading=h.uoqkfhbfho61
 
 TEST REPORTS LINK
 
